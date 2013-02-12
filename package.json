@@ -1,0 +1,20 @@
+{
+  "name": "grunt-configure",
+  "version": "0.0.1",
+  "description": "Configure grunt with a directory of task configuration files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": "http://github.com/iammerrick/grunt-configure",
+  "author": "Merrick Christensen <merrick.christensen@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "~1.0.0-rc.3",
+    "glob": "~3.1.19",
+    "js-yaml": "~2.0.1"
+  },
+  "devDependencies": {
+    "chai": "~1.5.0"
+  }
+}
