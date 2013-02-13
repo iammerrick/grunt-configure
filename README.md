@@ -2,6 +2,16 @@
 
 grunt-configure supports loading a group of configuration files for more organized Grunt configuration!
 
+## Overview
+
+Takes a bunch of files like [this](https://github.com/iammerrick/grunt-configure/tree/master/test/support)...
+
+![Files](http://f.cl.ly/items/0J2o2x1z2S1l010y0n2l/files.png)
+
+And creates a Grunt configuration like this: 
+
+![Configuration](http://f.cl.ly/items/2V0h371r2s1T3w102x16/output.png)
+
 ## Features
 
 - Clean separation of task configuration.
